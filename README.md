@@ -1,2 +1,1 @@
-# unid-sdk-mongo-connector
-unid-sdk-mongo-connector
+# unid-wallet-sdk-mongo-connector
