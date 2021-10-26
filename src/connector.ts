@@ -1,5 +1,5 @@
 import { MongoClient, ObjectId, WithId } from 'mongodb'
-import { BaseConnector, Id, MnemonicKeyringModel, UNiDInvalidDataError, UNiDNotImplementedError } from '@unid/wallet-sdk-base-connector'
+import { BaseConnector, Id, MnemonicKeyringModel, UNiDInvalidDataError, UNiDNotImplementedError } from '@getunid/wallet-sdk-base-connector'
 
 export class MongoDBConnector extends BaseConnector<MongoClient> {
     /**
